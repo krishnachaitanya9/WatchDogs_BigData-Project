@@ -1,0 +1,1 @@
+pip install --upgrade git+ssh://git@github.com/CUBigDataClass/RedisWrapper.git
